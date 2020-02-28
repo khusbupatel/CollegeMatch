@@ -1,0 +1,2 @@
+CollegeMatch allows a student to input their name and major and in turn the website returns a random Georgia college from an array of colleges. This project served as an introduction to HTML, CSS, and JavaScript. Currently, I am learning more about each of these platforms in addition to Node.js, so as I learn more, I hope to add on to this website for a stronger frontend and backend. 
+This version of the website uses a Bootstrap template for enhanced aesthetics.
